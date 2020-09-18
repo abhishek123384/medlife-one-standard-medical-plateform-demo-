@@ -1,0 +1,26 @@
+﻿body {
+    padding-bottom: 20px;
+     
+}
+
+.navbar {
+    margin-bottom: 20px;
+    margin-top:10px
+    background-color:#81fb1a;
+    color:#0e0d0d;
+    
+}
+.innerpanel {
+ background-color:white;
+}
+
+.myvalue {
+ margin-right:10px;
+
+box-shadow:0 0 5px black;
+}
+.myheader {
+ box-shadow:0 0  5px balck;
+ height:200px;
+
+}
